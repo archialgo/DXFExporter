@@ -1,5 +1,5 @@
 # DXFExporter
-[![](https://jitpack.io/v/archialgo/BlobDetection-maven-lib.svg)](https://jitpack.io/#archialgo/BlobDetection-maven-lib)   
+[![](https://jitpack.io/v/archialgo/DXFExporter.svg)](https://jitpack.io/#archialgo/DXFExporter)
 extract from [kabeja]([http://www.v3ga.net/](https://github.com/Antea/kabeja))  
 
 ## Supported Versions:  
